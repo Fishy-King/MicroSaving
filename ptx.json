@@ -1,7 +1,9 @@
 {
     "name": "MicroSaving",
     "description": "An extension for saving variables to memory",
-    "dependencies": {},
+    "dependencies": {
+        "MicroSaving": "github.com:your-username/MicroSaving#main"
+    },
     "files": [
         "MicroSaving.ts"
     ],
