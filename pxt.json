@@ -1,0 +1,12 @@
+{
+    "name": "variableStorage",
+    "description": "An extension for saving variables to memory",
+    "dependencies": {},
+    "files": [
+        "variableStorage.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.0",
+        "microbit": "1.4.0"
+    }
+}
