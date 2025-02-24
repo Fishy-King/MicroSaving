@@ -1,9 +1,9 @@
 {
-    "name": "variableStorage",
+    "name": "MicroSaving",
     "description": "An extension for saving variables to memory",
     "dependencies": {},
     "files": [
-        "variableStorage.ts"
+        "MicroSaving.ts"
     ],
     "targetVersions": {
         "target": "1.4.0",
