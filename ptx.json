@@ -2,7 +2,7 @@
     "name": "MicroSaving",
     "description": "An extension for saving variables to memory",
     "dependencies": {
-        "MicroSaving": "github.com:your-username/MicroSaving#main"
+        "MicroSaving": "github.com:Fishy-King/MicroSaving#main"
     },
     "files": [
         "MicroSaving.ts"
