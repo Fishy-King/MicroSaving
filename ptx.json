@@ -1,14 +1,13 @@
 {
-    "name": "MicroSaving",
-    "description": "An extension for saving variables to memory",
+    "name": "MicroExtender",
+    "description": "A simple storage system for variables in MakeCode",
+    "version": "0.0.1",
+    "license": "MIT",
     "dependencies": {
-        "MicroSaving": "github.com:Fishy-King/MicroSaving#main"
+        "core": "*"
     },
     "files": [
-        "MicroSaving.ts"
+        "MicroExtender.ts"
     ],
-    "targetVersions": {
-        "target": "1.4.0",
-        "microbit": "1.4.0"
-    }
+    "public": true
 }
